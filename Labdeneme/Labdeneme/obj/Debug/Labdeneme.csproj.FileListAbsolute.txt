@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Labdeneme\Labdeneme\bin\Debug\Labdeneme.exe.config
+C:\Users\Administrator\source\repos\Labdeneme\Labdeneme\bin\Debug\Labdeneme.exe
+C:\Users\Administrator\source\repos\Labdeneme\Labdeneme\bin\Debug\Labdeneme.pdb
+C:\Users\Administrator\source\repos\Labdeneme\Labdeneme\obj\Debug\Labdeneme.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Labdeneme\Labdeneme\obj\Debug\Labdeneme.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Labdeneme\Labdeneme\obj\Debug\Labdeneme.exe
+C:\Users\Administrator\source\repos\Labdeneme\Labdeneme\obj\Debug\Labdeneme.pdb
